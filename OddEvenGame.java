@@ -39,3 +39,6 @@ public class OddEvenGame {
 	}
 
 }
+
+
+// Please explain what public OddEvenGame() {	}  does
